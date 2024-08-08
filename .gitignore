@@ -1,0 +1,3 @@
+.travelai_scrapper_dashboard
+*.pyc
+static/*
